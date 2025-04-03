@@ -51,8 +51,6 @@ while opcao != 0:
 
     elif opcao == 0:
         print('\nObrigado por usar nosso Banco!')
-        print('teste commit')
-        print('teste commit')
-        
+        print('Teste')    
     else:
         print('\nOpção inválida! Tente novamente.')
